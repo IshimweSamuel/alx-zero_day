@@ -1,1 +1,1 @@
-Command lin used  is "git fetch origin && git merge origin/main"
+git pull origin main
